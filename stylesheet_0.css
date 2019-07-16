@@ -1,0 +1,100 @@
+/*selected tag{
+    property: value;
+}*/
+
+h1{
+  color: #FAFAFA;
+}
+
+h2{
+  color: #FAFAFA;
+}
+
+h3{
+  color: #B2C2B6;
+}
+
+h4{
+  color: #B6BFBF;
+}
+
+li{
+  color: #FAFAFA;
+}
+
+p{
+  color: #000000;
+}
+
+body{
+  background-color: #111314;
+}
+
+div{
+  color: #FFFFFF;
+  background-color: #CF8888;
+  border-color: #2E648F;
+  border-width: 4px;
+  border-style: groove;
+  padding: 3px;
+}
+
+.DivOne{
+  color: #000000;
+  background-color: #D16049;
+  border-style: solid;
+  border-width: 2.5px;
+  border-color: #ABDE54;
+  padding: 3px;
+}
+
+.DivTwo{
+  background-color: #9638B5;
+  color: #242323;
+  margin: auto;
+  padding: 3px;
+}
+
+#UniqueOne{
+  background-color: #B5B1B1;
+  color:  #000000;
+  border-style: solid;
+  border-color: #3B1717;
+  border-width: 4px;
+  margin: auto;
+  padding: 3px;
+}
+
+input{
+  border:#A33939;
+}
+
+label{
+  color: #C9E0AD;
+}
+
+.Spectrum{
+  height: 200px;
+  width: 400px;
+  margin: auto;
+}
+
+#col_one{
+  background-color: #3A015C;
+}
+
+#col_two{
+  background-color: #4F0147;
+}
+
+#col_three{
+  background-color: #35012C;
+}
+
+#col_four{
+  background-color: #290025;
+}
+
+#col_five{
+  background-color: #11001C;
+}
